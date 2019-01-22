@@ -1,5 +1,0 @@
-C:\Users\Administrador\Documents\beca-dotnet-2019-necoleto\BussinesCore\bin\Debug\BussinesCore.dll
-C:\Users\Administrador\Documents\beca-dotnet-2019-necoleto\BussinesCore\bin\Debug\BussinesCore.pdb
-C:\Users\Administrador\Documents\beca-dotnet-2019-necoleto\BussinesCore\obj\Debug\BussinesCore.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Documents\beca-dotnet-2019-necoleto\BussinesCore\obj\Debug\BussinesCore.dll
-C:\Users\Administrador\Documents\beca-dotnet-2019-necoleto\BussinesCore\obj\Debug\BussinesCore.pdb
