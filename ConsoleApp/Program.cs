@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BussinesCore;
+
 
 namespace ConsoleApp
 {
@@ -10,8 +12,12 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cambiamos el hola mundo.");
-
+           String material;
+           material = System.Console.ReadLine();
+           Chassis obj1 = new Chassis(material);
+            Vehicle vehicle = new Vehicle();
+            
+           
         }
     }
 }
